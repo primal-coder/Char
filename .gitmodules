@@ -1,0 +1,9 @@
+[submodule "Char/CharActor"]
+	path = Char/CharActor
+	url = https://github.com/primal-coder/CharActor
+[submodule "Char/CharObj"]
+	path = Char/CharObj
+	url = https://github.com/primal-coder/CharObj
+[submodule "Char/CharTask"]
+	path = Char/CharTask
+	url = https://github.com/primal-coder/CharTask
