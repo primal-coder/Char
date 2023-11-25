@@ -1,0 +1,114 @@
+2023-11-25 11:14:38,964 - base_actor: BaseActor: Initializing BaseActor class.
+2023-11-25 11:14:38,990 - base_actor: BaseCharacter: Initializing BaseCharacter class.
+2023-11-25 11:14:39,009 - Initializing CharActor.
+2023-11-25 11:14:39,023 - Initializing character bank.
+2023-11-25 11:14:39,038 - Initializing catalogues.
+2023-11-25 11:14:39,053 - Creating catalogue instance.
+,038 - Initializing catalogues.
+2023-11-25 11:14:39,053 - Creating catalogue instance.
+2023-11-25 11:16:02,973 - base_actor: BaseActor: Initializing BaseActor class.
+2023-11-25 11:16:02,986 - base_actor: BaseCharacter: Initializing BaseCharacter class.
+2023-11-25 11:16:02,992 - Initializing CharActor.
+2023-11-25 11:16:02,994 - Initializing character bank.
+2023-11-25 11:16:02,997 - Initializing catalogues.
+2023-11-25 11:16:02,999 - Creating catalogue instance.
+2023-11-25 11:16:06,725 - base_actor: BaseActor: Initializing BaseActor class.
+2023-11-25 11:16:06,741 - base_actor: BaseCharacter: Initializing BaseCharacter class.
+2023-11-25 11:16:06,749 - Initializing CharActor.
+2023-11-25 11:16:06,753 - Initializing character bank.
+2023-11-25 11:16:06,757 - Initializing catalogues.
+2023-11-25 11:16:06,761 - Creating catalogue instance.
+2023-11-25 11:16:19,976 - base_actor: BaseActor: Initializing BaseActor class.
+2023-11-25 11:16:19,992 - base_actor: BaseCharacter: Initializing BaseCharacter class.
+2023-11-25 11:16:19,999 - Initializing CharActor.
+2023-11-25 11:16:20,003 - Initializing character bank.
+2023-11-25 11:16:20,008 - Initializing catalogues.
+2023-11-25 11:16:20,012 - Creating catalogue instance.
+2023-11-25 11:17:53,084 - SCENE - scene - Initializing AbstractScene.
+2023-11-25 11:17:53,086 - CORE - _window - Importing _window module.
+2023-11-25 11:17:53,086 - CORE - _window - Initializing MainWindow class.
+2023-11-25 11:17:53,086 - CORE - _window - Registering event: on_activate
+2023-11-25 11:17:53,086 - CORE - _window - Registering event: on_deactivate
+2023-11-25 11:17:53,086 - CORE - _window - Registering event: on_reactivate
+2023-11-25 11:17:53,086 - CORE - _window - Registering event: on_refresh
+2023-11-25 11:17:53,086 - CORE - _window - Registering event: on_render
+2023-11-25 11:17:53,262 - base_actor: BaseActor: Initializing BaseActor class.
+2023-11-25 11:17:53,279 - base_actor: BaseCharacter: Initializing BaseCharacter class.
+2023-11-25 11:17:53,288 - Initializing CharActor.
+2023-11-25 11:17:53,293 - Initializing character bank.
+2023-11-25 11:17:53,298 - Initializing catalogues.
+2023-11-25 11:17:53,303 - Creating catalogue instance.
+2023-11-25 11:21:45,806 - SCENE - scene - Initializing AbstractScene.
+2023-11-25 11:21:45,808 - CORE - _window - Importing _window module.
+2023-11-25 11:21:45,808 - CORE - _window - Initializing MainWindow class.
+2023-11-25 11:21:45,808 - CORE - _window - Registering event: on_activate
+2023-11-25 11:21:45,808 - CORE - _window - Registering event: on_deactivate
+2023-11-25 11:21:45,808 - CORE - _window - Registering event: on_reactivate
+2023-11-25 11:21:45,808 - CORE - _window - Registering event: on_refresh
+2023-11-25 11:21:45,808 - CORE - _window - Registering event: on_render
+2023-11-25 11:21:45,851 - base_actor: BaseActor: Initializing BaseActor class.
+2023-11-25 11:21:45,869 - base_actor: BaseCharacter: Initializing BaseCharacter class.
+2023-11-25 11:21:45,877 - Initializing CharActor.
+2023-11-25 11:21:45,882 - Initializing character bank.
+2023-11-25 11:21:45,887 - Initializing catalogues.
+2023-11-25 11:21:45,892 - Creating catalogue instance.
+2023-11-25 11:23:35,071 - SCENE - scene - Initializing AbstractScene.
+2023-11-25 11:23:35,073 - CORE - _window - Importing _window module.
+2023-11-25 11:23:35,073 - CORE - _window - Initializing MainWindow class.
+2023-11-25 11:23:35,073 - CORE - _window - Registering event: on_activate
+2023-11-25 11:23:35,073 - CORE - _window - Registering event: on_deactivate
+2023-11-25 11:23:35,073 - CORE - _window - Registering event: on_reactivate
+2023-11-25 11:23:35,073 - CORE - _window - Registering event: on_refresh
+2023-11-25 11:23:35,073 - CORE - _window - Registering event: on_render
+2023-11-25 11:24:59,581 - SCENE - scene - Initializing AbstractScene.
+2023-11-25 11:24:59,583 - CORE - _window - Importing _window module.
+2023-11-25 11:24:59,583 - CORE - _window - Initializing MainWindow class.
+2023-11-25 11:24:59,583 - CORE - _window - Registering event: on_activate
+2023-11-25 11:24:59,583 - CORE - _window - Registering event: on_deactivate
+2023-11-25 11:24:59,583 - CORE - _window - Registering event: on_reactivate
+2023-11-25 11:24:59,583 - CORE - _window - Registering event: on_refresh
+2023-11-25 11:24:59,583 - CORE - _window - Registering event: on_render
+2023-11-25 11:24:59,628 - base_actor: BaseActor: Initializing BaseActor class.
+2023-11-25 11:24:59,647 - base_actor: BaseCharacter: Initializing BaseCharacter class.
+2023-11-25 11:24:59,656 - Initializing CharActor.
+2023-11-25 11:24:59,661 - Initializing character bank.
+2023-11-25 11:24:59,667 - Initializing catalogues.
+2023-11-25 11:24:59,672 - Creating catalogue instance.
+2023-11-25 11:29:26,349 - actor: create: Creating character: char1
+2023-11-25 11:29:26,349 - actor: create: No details provided. Creating random character.
+2023-11-25 11:29:26,351 - base_actor: _initialize: Initializing BaseActor instance.
+2023-11-25 11:29:26,352 - base_actor: _add_role: Role set to Paladin
+2023-11-25 11:29:26,354 - base_actor: _add_race: Adding race: Human
+2023-11-25 11:29:26,355 - base_actor: _add_race: Set race to Human
+2023-11-25 11:29:26,356 - base_actor: _add_alignment: Adding alignment: true_neutral
+2023-11-25 11:29:26,357 - base_actor: _add_background: Set background to Sage
+2023-11-25 11:29:26,359 - base_actor: _init_ability_scores: Ability scores rolled: [16, 16, 15, 14, 14, 13]
+2023-11-25 11:29:26,361 - base_actor: _add_abilities: Abilities set to {'Strength': STR: 17 (+3), 'Dexterity': DEX: 14 (+2), 'Constitution': CON: 17 (+3), 'Intelligence': INT: 15 (+2), 'Wisdom': WIS: 15 (+2), 'Charisma': CHA: 16 (+3)}
+2023-11-25 11:29:26,362 - base_actor: _add_skills: Adding skills.
+2023-11-25 11:29:26,386 - base_actor: _init_skill_points: Available skill points set to 4
+2023-11-25 11:29:26,388 - base_actor: _init_hp: Initial health points set to 13
+2023-11-25 11:29:26,389 - base_actor: _determine_saves_and_initiative: Determining saving throws and initiative.
+2023-11-25 11:29:26,390 - base_actor: _determine_saves_and_initiative: Fortitude save bonus set to 3
+2023-11-25 11:29:26,392 - base_actor: _determine_saves_and_initiative: Reflex save bonus set to 2
+2023-11-25 11:29:26,393 - base_actor: _determine_saves_and_initiative: Will save bonus set to 2
+2023-11-25 11:29:26,394 - base_actor: _determine_saves_and_initiative: Initiative set to 2
+2023-11-25 11:29:26,395 - base_actor: _set_age: No age provided. Rolling for age.
+2023-11-25 11:29:26,397 - base_actor: _set_age: Age set to 31
+2023-11-25 11:29:26,398 - base_actor: _init_inventory: Initializing inventory.
+2023-11-25 11:29:26,399 - base_actor: _init_inventory: Adding starting equipment: ['Chain Mail Hauberk', 'Leather Gloves', 'Leather Boots', 'Leather Leggings', 'Longsword', 'Waterskin', 'Backpack']
+2023-11-25 11:29:26,401 - base_actor: _init_inventory: Could not find Chain Mail Hauberk in Armory or Goods
+2023-11-25 11:29:26,402 - base_actor: _init_inventory: Could not find Leather Gloves in Armory or Goods
+2023-11-25 11:29:26,404 - base_actor: _init_inventory: Found Leather Boots in Armory
+2023-11-25 11:29:26,405 - base_actor: _add_and_equip_piece: Leather Boots equipped
+2023-11-25 11:29:26,407 - base_actor: _init_inventory: Found Leather Leggings in Armory
+2023-11-25 11:29:26,408 - base_actor: _add_and_equip_piece: Leather Leggings equipped
+2023-11-25 11:29:26,409 - base_actor: _init_inventory: Found Longsword in Armory
+2023-11-25 11:29:26,411 - base_actor: _add_and_equip_piece: Longsword equipped
+2023-11-25 11:29:26,412 - base_actor: _init_inventory: Found Waterskin in Goods
+2023-11-25 11:29:26,414 - base_actor: _init_inventory: Found Backpack in Goods
+2023-11-25 11:29:26,415 - base_actor: _init_inventory: Could not find Ink Well in Armory or Goods
+2023-11-25 11:29:26,417 - base_actor: _init_inventory: Found Quill in Goods
+2023-11-25 11:29:26,418 - base_actor: _init_inventory: Could not find Small Knife in Armory or Goods
+2023-11-25 11:29:26,420 - base_actor: _init_inventory: Found Written Conundrum in Goods
+2023-11-25 11:29:26,421 - base_actor: _init_inventory: Could not find Common Clothes in Armory or Goods
+2023-11-25 11:29:26,422 - actor: create: char1 created.
