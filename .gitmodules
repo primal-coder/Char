@@ -7,3 +7,15 @@
 [submodule "Char/CharTask"]
 	path = Char/CharTask
 	url = https://github.com/primal-coder/CharTask
+[submodule "Char/CharCore"]
+	path = Char/CharCore
+	url = https://github.com/CharCore
+[submodule "Char/gridengine"]
+	path = Char/gridengine
+	url = https://github.com/primal-coder/grid-engine
+[submodule "Char/entyty"]
+	path = Char/entyty
+	url = https://github.com/primal-coder/entyty
+[submodule "Char/dicepy"]
+	path = Char/dicepy
+	url = https://github.com/primal-coder/dicepy
