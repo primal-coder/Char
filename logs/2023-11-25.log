@@ -112,3 +112,45 @@
 2023-11-25 11:29:26,420 - base_actor: _init_inventory: Found Written Conundrum in Goods
 2023-11-25 11:29:26,421 - base_actor: _init_inventory: Could not find Common Clothes in Armory or Goods
 2023-11-25 11:29:26,422 - actor: create: char1 created.
+2023-11-25 17:44:49,911 - SCENE - scene - Initializing AbstractScene.
+2023-11-25 17:44:49,912 - CORE - _window - Importing _window module.
+2023-11-25 17:44:49,912 - CORE - _window - Initializing MainWindow class.
+2023-11-25 17:44:49,912 - CORE - _window - Registering event: on_activate
+2023-11-25 17:44:49,912 - CORE - _window - Registering event: on_deactivate
+2023-11-25 17:44:49,912 - CORE - _window - Registering event: on_reactivate
+2023-11-25 17:44:49,912 - CORE - _window - Registering event: on_refresh
+2023-11-25 17:44:49,912 - CORE - _window - Registering event: on_render
+2023-11-25 17:44:49,956 - base_actor: BaseActor: Initializing BaseActor class.
+2023-11-25 17:44:49,975 - base_actor: BaseCharacter: Initializing BaseCharacter class.
+2023-11-25 17:44:49,983 - Initializing CharActor.
+2023-11-25 17:44:49,988 - Initializing character bank.
+2023-11-25 17:44:49,993 - Initializing catalogues.
+2023-11-25 17:44:49,998 - Creating catalogue instance.
+2023-11-25 17:52:55,697 - SCENE - scene - Initializing AbstractScene.
+2023-11-25 17:52:55,698 - CORE - _window - Importing _window module.
+2023-11-25 17:52:55,698 - CORE - _window - Initializing MainWindow class.
+2023-11-25 17:52:55,698 - CORE - _window - Registering event: on_activate
+2023-11-25 17:52:55,698 - CORE - _window - Registering event: on_deactivate
+2023-11-25 17:52:55,698 - CORE - _window - Registering event: on_reactivate
+2023-11-25 17:52:55,698 - CORE - _window - Registering event: on_refresh
+2023-11-25 17:52:55,698 - CORE - _window - Registering event: on_render
+2023-11-25 17:52:55,742 - base_actor: BaseActor: Initializing BaseActor class.
+2023-11-25 17:52:55,760 - base_actor: BaseCharacter: Initializing BaseCharacter class.
+2023-11-25 17:52:55,769 - Initializing CharActor.
+2023-11-25 17:52:55,774 - Initializing character bank.
+2023-11-25 17:52:55,779 - Initializing catalogues.
+2023-11-25 17:52:55,784 - Creating catalogue instance.
+2023-11-25 17:53:41,681 - SCENE - scene - Initializing AbstractScene.
+2023-11-25 17:53:41,683 - CORE - _window - Importing _window module.
+2023-11-25 17:53:41,683 - CORE - _window - Initializing MainWindow class.
+2023-11-25 17:53:41,683 - CORE - _window - Registering event: on_activate
+2023-11-25 17:53:41,683 - CORE - _window - Registering event: on_deactivate
+2023-11-25 17:53:41,683 - CORE - _window - Registering event: on_reactivate
+2023-11-25 17:53:41,683 - CORE - _window - Registering event: on_refresh
+2023-11-25 17:53:41,683 - CORE - _window - Registering event: on_render
+2023-11-25 17:53:41,727 - base_actor: BaseActor: Initializing BaseActor class.
+2023-11-25 17:53:41,746 - base_actor: BaseCharacter: Initializing BaseCharacter class.
+2023-11-25 17:53:41,754 - Initializing CharActor.
+2023-11-25 17:53:41,759 - Initializing character bank.
+2023-11-25 17:53:41,764 - Initializing catalogues.
+2023-11-25 17:53:41,769 - Creating catalogue instance.
